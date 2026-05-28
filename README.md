@@ -1,0 +1,2 @@
+# PSelnt
+Algoritmos Pseudocodigo
